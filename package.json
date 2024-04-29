@@ -1,0 +1,21 @@
+{
+	"name": "hashing-test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "20",
+		"tinybench": "^2.8.0"
+	},
+	"dependencies": {
+		"imagetools-core": "^7.0.0",
+		"sharp": "^0.33.3"
+	}
+}
